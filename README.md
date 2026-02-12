@@ -43,8 +43,11 @@ notes.json
 🛠 Tech Stack:
 
 Python 3.13
+
 Model Context Protocol (MCP) v1.26.0
+
 FastMCP
+
 AsyncIO
 
 ▶️ How To Run:
