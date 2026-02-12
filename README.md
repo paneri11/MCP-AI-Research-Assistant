@@ -52,7 +52,7 @@ AsyncIO
 
 ▶️ How To Run:
 
-1. Clone repository
+1. Clone repository: 
 git clone https://github.com/paneri11/mcp-ai-research-assistant.git
 
    cd mcp-ai-research-assistant
