@@ -23,19 +23,19 @@ Structured tool invocation
 
 User CLI
 
-   ↓
+      ↓
    
 MCP Client
 
-   ↓ (stdio transport)
+      ↓ (stdio transport)
    
 FastMCP Server
 
-   ↓
+      ↓
    
 Tool Execution Layer
 
-   ↓
+      ↓
    
 notes.json
 
@@ -55,11 +55,12 @@ AsyncIO
 1. Clone repository
 git clone https://github.com/paneri11/mcp-ai-research-assistant.git
 
-cd mcp-ai-research-assistant
+   cd mcp-ai-research-assistant
 
 2. Create virtual environment:
 python -m venv venv
-venv\Scripts\activate   # Windows
+
+   venv\Scripts\activate   # Windows
 
 3. Install dependencies:
 pip install -r requirements.txt
