@@ -21,23 +21,23 @@ Structured tool invocation
 
 🏗 Architecture
 
-User CLI
+      User CLI
 
-      ↓
+          ↓
    
-MCP Client
+      MCP Client
 
-      ↓ (stdio transport)
+          ↓ (stdio transport)
    
-FastMCP Server
+      FastMCP Server
 
-      ↓
+          ↓
    
-Tool Execution Layer
+      Tool Execution Layer
 
-      ↓
+          ↓
    
-notes.json
+      notes.json
 
 
 🛠 Tech Stack:
